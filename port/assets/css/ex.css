@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'S-CoreDream-3Light';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'Rubik';
+    src:url(../fonts/Rubik/Rubik-VariableFont_wght.ttf);
+    src:url(../fonts/Rubik/Rubik-Italic-VariableFont_wght.ttf);
+}
+
+.rubik {font-family:'Rubik';font-size:800;}
